@@ -16,7 +16,7 @@ I believe in continuous learning and that there is always something that we can 
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tff27&layout=compact&langs_count=10)](https://github.com/tff27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tff27&layout=compact&langs_count=10&count_private=true)](https://github.com/tff27)
 
 <!--
 
