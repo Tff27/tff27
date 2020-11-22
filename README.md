@@ -14,10 +14,11 @@ I believe in continuous learning and that there is always something that we can 
 - 💬 Ask me about: literally anything, I'm glad to help or discuss any topic.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiagofonseca27) || [Twitter](https://twitter.com/tff_27) || tiagoffonseca@gmail.com
 
-<!--
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tff27&layout=compact&langs_count=10)](https://github.com/tff27)
+
+<!--
 
 **Tff27/tff27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
