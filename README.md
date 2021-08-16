@@ -12,7 +12,7 @@ I believe in continuous learning and that there is always something that we can 
 - 🔭 I’m currently working on: .Net Web API, Microsoft Bot Framework (C#)
 - 🌱 I’m currently learning: Blazor
 - 💬 Ask me about: literally anything, I'm glad to help or discuss any topic.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiagofonseca27) || [Twitter](https://twitter.com/tff_27) || tiagoffonseca@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiagofonseca27) || [Twitter](https://twitter.com/tff_27) || [Mail](mailto:tiagoffonseca@gmail.com)
 
 ### Languages
 
