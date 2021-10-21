@@ -3,7 +3,7 @@
 ### About Me
 Hi I’m **Tiago Fonseca**, a software engineer from Portugal. 
 I have started coding when I was about 15 years old at school.
-Since then I've worked with manly with .net! From web forms to the latest thing there is at .net stack.
+Since then I've mainly worked with .net! From web forms to the latest thing there is at .net stack.
 Over the past years, I've **designed, developed, and deploy** a variety of projects using different technologies.
 
 I'm a believer in continuous learning and that there is always something that we can make better.
