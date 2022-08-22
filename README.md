@@ -10,8 +10,8 @@ Over the past years, I've **designed, developed, and deploy** a variety of proje
 
 I'm a believer in continuous learning and that there is always something that we can make better.
 
-- 🔭 I’m currently working on: **.net Web API, Microsoft Bot Framework (C#)**
-- 🌱 I’m currently learning: **Blazor, Web3**
+- 🔭 I’m currently working on: **.Net APIs, Distributed High Scaling Systems**
+- 🌱 I’m currently learning: **Blazor, Web3, AWS**
 - 💬 Ask me about: Literally anything, I'm glad to help or discuss any topic.
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/tiagofonseca27)
