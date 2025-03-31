@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 ### About Me
-Hi I’m **Tiago Fonseca**, a software engineer from Portugal. 
-I have started coding when I was about 15 years old at school.
+Hey I’m **Tiago Fonseca**, a software engineer from Portugal. 
+I started coding when I was about 15 years old at school.
 Since then I've mainly worked with .net! From web forms to the latest thing there is at .net stack.
 Over the past years, I've **designed, developed, and deploy** a variety of projects using different technologies.
 
@@ -12,7 +12,7 @@ I'm a believer in continuous learning and that there is always something that we
 
 - 🔭 I’m currently working on: **.Net APIs, Distributed High Scaling Systems**
 - 🌱 I’m currently learning: **Blazor, Web3, AWS**
-- 💬 Ask me about: Literally anything, I'm glad to help or discuss any topic.
+- 💬 Ask me about: .Net in general, distributed systems and payment services.
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/tiagofonseca27)
   - [Twitter](https://twitter.com/tff_27)
